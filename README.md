@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hazal.</h1>
 <h3 align="center">An IT passionate management information systems specialist</h3>
 
+- 🖥️ I’m currently working on **front-end development**
 - 🌱 I’m currently learning **data science.**
-
 - 📫 How to reach me **asmahazalnur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
