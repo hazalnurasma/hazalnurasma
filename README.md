@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hazal.</h1>
-<h3 align="center">I am a Junior Front-End Developer who wants to become Data Scientist too.💻</h3>
+<h3 align="center">I am a Data Warehouse Developer @MindTech Technology.💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazalnurasma&label=Profile%20views&color=0e75b6&style=flat" alt="hazalnurasma" /> </p>
 
-- 🔭 I’m currently working on **front-end development.**
+- 🔭 I’m currently working on **datawarehousue and bussines intelligence.**
 
-- 🌱 I’m currently learning **data science.**
+- 🌱 I’m currently learning **agentic coding & claude code & llm**
 
 - 📫 How to reach me **asmahazalnur@gmail.com**
 
