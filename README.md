@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hazal.</h1>
-<h3 align="center">I am a Data Warehouse Developer @MindTech Technology.💻</h3>
+<h3 align="center">I am a Data Warehouse Developer @MindTech Technology in Ziraat Technology project 🏦💹💵💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazalnurasma&label=Profile%20views&color=0e75b6&style=flat" alt="hazalnurasma" /> </p>
 
